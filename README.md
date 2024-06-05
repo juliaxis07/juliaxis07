@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 💙
 
-<!--
-**juliaxis07/juliaxis07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Julia Ribeiro
 
-Here are some ideas to get you started:
+- Estou estudando na Alura;
+- Estou me desenvolvendo no JavasScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo 🗨
+
+ ribeirolopesjulia553@gmail.com
+
+@juuh_ribeiro.07
+
+
+
+![](https://tenor.com/pt-BR/view/pica-pau-gif-20234438)
